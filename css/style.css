@@ -10,11 +10,28 @@
 .redesSociais{
 
     color: #DADADA;
+   
+}
+.textWhat{
+    margin-left: 20px;
+    margin-right: 100px;
+}
+.textInst{
+    margin-left: 50px;
+    
 }
 .navbarmenu{
     
-background:#B73D26;
+    background:#B73D26; 
 }
 .nav-link {
     color: white!important;
+    
 }
+.textMenu{
+    margin-left: 100px;
+    margin-right: 10px;
+
+}
+
+https://www.figma.com/file/oNMX19fa3IBDzsEFQJJjsQ/Marun?node-id=3%3A3
