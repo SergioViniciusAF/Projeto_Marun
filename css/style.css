@@ -1,0 +1,20 @@
+#menu{
+    position: absolute;
+    width: 1920px;
+    height: 840px;
+    left: 0px;
+    top: 0px;
+    background: #B73D26;        
+}
+
+.redesSociais{
+
+    color: #DADADA;
+}
+.navbarmenu{
+    
+background:#B73D26;
+}
+.nav-link {
+    color: white!important;
+}
