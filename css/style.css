@@ -28,7 +28,7 @@
 .navbarmenu{
     
     background:#B73D26; 
-    width: 1920px;
+    width: auto;
    
     
 }
@@ -62,6 +62,7 @@
     
 }
 #banner{
+    
     background:#B73D26; 
 }
 
@@ -75,7 +76,6 @@
 
 }
 
-  
 #carrossel li{
     display: inline-block;
 }
@@ -102,7 +102,7 @@
     height: 500px;
     left: 0px;
     top:237px;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))url(image.png);
+    /* background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))url(image.png); */
 
 
 }
@@ -112,7 +112,7 @@
     height: 383px;
     left: 0px;
     top: 93.57px;
-    background: url(image.png);
+    /* background: url(image.png); */
 
 }
 
@@ -127,9 +127,34 @@
 #filhos {
     position: absolute;
 }
-.text1{
-    font-size: 64p 
+.text{
+    color:#B73D26;
+    font-family: 'Benton Sans Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 140%;
+    /* or 18px */
 
+    letter-spacing: 0.745em;
+
+
+}
+.text1{
+    font-size: 64p;
+    
+}
+.text2{
+    font-size: 64p;
+    color:#B73D26; 
+}
+.text3{
+    font-size: 64p;
+    color:#B73D26; 
+}
+.text4{
+    font-size: 64p;
+    color:black; 
 }
 
 
@@ -139,7 +164,7 @@ font-family: 'BentonSansCondensed';
 font-style: normal;
 font-weight: 800;
 font-size: 64px;
-line-height: 77px;
+line-height: 70px;
 
 color: #000000;
 
