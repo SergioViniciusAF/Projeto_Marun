@@ -56,7 +56,7 @@
     
     background:#B73D26; 
     padding-left: 0px;
-    padding-right:px;
+    padding-right:0px;
 }
 
 .tribal{
@@ -80,15 +80,7 @@
 #map {
   height: 100%;
 }
-/* #logo2{
-    position: absolute;
-    width: 165.98px;
-    height: 95.16px;
-    left: 475px;
-    top: 5048.38px;
 
- background: url(logo 2.png);
-} */
 #imgInicial{
     width: 1920px;
     height: 500px;
@@ -103,7 +95,7 @@
     top: 93.57px;
 }
 
-#pai {
+/* #pai {
     position: relative;
     width: 1920px;
     height: 500px;
@@ -112,7 +104,7 @@
 }
 #filhos {
     position: absolute;
-}
+} */
 .text{
     color:#B73D26;
     font-family: 'Benton Sans Condensed';
@@ -179,6 +171,9 @@ h{
 
 #rowInstagram{
     background: url(../img/Rectangle\ 3.png);
+    padding-top: 10px;
+     padding-bottom: 100px;
+
 }
 #sigaMarun{
   text-align: center;
@@ -188,6 +183,9 @@ h{
 
 #fotosInstagram{
     font-size: 0;
+}
+#imagemBar{
+  
 }
 
 
@@ -311,8 +309,44 @@ h{
         padding-right: 30px;
 
     }
+
+}
   
-       
+.carouselBebidasMobile{
+    display: none;
+}
 
- }
+/* .carouselBebidasDesktop{
+    display: block;
+}
+ */
 
+
+  
+@media screen and (max-width: 600px) {
+    #fotosInstagram, #tribalInstagram{
+        visibility: hidden;
+    }
+
+    .carouselBebidasMobile{
+        display: block;
+    }
+
+    .carouselBebidasDesktop{
+        display: none;
+    }
+
+    .descricaoBebidasMobile, #textRestaurante{
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .text4{
+        text-align: left;
+        padding-left: 20px;
+
+    }
+
+  }
+
+  
