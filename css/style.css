@@ -95,16 +95,7 @@
     top: 93.57px;
 }
 
-/* #pai {
-    position: relative;
-    width: 1920px;
-    height: 500px;
-    left: 0px;
-    top:237px;
-}
-#filhos {
-    position: absolute;
-} */
+
 .text{
     color:#B73D26;
     font-family: 'Benton Sans Condensed';
@@ -184,9 +175,7 @@ h{
 #fotosInstagram{
     font-size: 0;
 }
-#imagemBar{
-  
-}
+
 
 
 #descricaoMarun{
@@ -248,8 +237,7 @@ h{
 
 #imagemComidas{
     font-size: 0;
-    /* height:307px;
-    width: 1245px; */
+
 }
 
 #imagemComidas img{
@@ -316,10 +304,7 @@ h{
     display: none;
 }
 
-/* .carouselBebidasDesktop{
-    display: block;
-}
- */
+
 
 
   
