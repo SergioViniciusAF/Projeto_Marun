@@ -80,9 +80,12 @@
     display: inline-block;
 }
 .carrossel{
-   height: 298px;
-   width: 298px;
+   height: 293px;
+   width: 293px;
+   
+ 
 }
+
 
 #map {
   height: 100%;
@@ -160,13 +163,131 @@
 
 
 h1{
-font-family: 'BentonSansCondensed';
-font-style: normal;
-font-weight: 800;
-font-size: 64px;
-line-height: 70px;
-
-color: #000000;
-
+    font-family: 'BentonSansCondensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 70px;
+    color: #000000;
+}
+h2{
+    font-family: 'BentonSansCondensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+}
+h{
+    color:#B73D26;  
+}
+#rowInstagram{
+    background: url(../img/Rectangle\ 3.png);
+}
+#sigaMarun{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom:40px;
 }
 
+#fotosInstagram{
+    font-size: 0;
+}
+
+
+#descricaoMarun{
+    background: rgba(183, 61, 38, 0.8);
+    height: 705.5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+#textDescricao{
+    font-family: 'BentonSansCondensed';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 58px;
+    color: white;
+
+}
+#textFuncionamento{
+    color: white;
+    font-family: 'Benton Sans Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    letter-spacing: 0.03em;
+    
+}
+#textVem{
+    color: #E27B01;
+}
+#imagemChefe{
+    padding-top: 80px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+#textRestaurante{
+    padding-top: 120px;
+    padding-right: 40px;
+    padding-left: 2px;
+    padding-bottom: 150px;
+}
+#imagemComidas{
+    font-size: 0;
+    /* height:307px;
+    width: 1245px; */
+
+}
+#imagemComidas img{
+ 
+width: 100%;
+}
+
+#textDrinks {
+    padding-top:30px;
+    padding-right: 0px;
+    padding-left: 30px;
+    
+}
+#textDrinks2 {
+    padding-left: 30px;
+}
+#btnCardapio{
+    margin: 30px;
+}
+#imagensBebidas{
+   width: 100%;
+}
+
+#imagensBebidas2{
+    width: 100%; 
+} 
+
+/* css mobile */
+@media only screen and (min-width: 600px) {
+    #imagensBebidas{
+        margin-bottom: 20px;
+    }
+    #imagensBebidas2{
+       margin-bottom:20px ; 
+    } 
+    #imagemComidas img{
+        margin-top: 2px;
+        margin-bottom:20px ;   
+    }
+    #textRestaurante{
+        padding-top:50px ;
+        padding-left:40px;
+        padding-bottom: 10px;
+        padding-right: 30px;
+
+    }
+  
+       
+
+    }
+}
