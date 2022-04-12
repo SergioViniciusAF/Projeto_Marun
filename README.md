@@ -29,15 +29,19 @@ Website desenvolvido para um processo seletivo. Não se trata de um projeto real
 ![imagem (8)](https://user-images.githubusercontent.com/79481502/162997117-acfc5aa6-4f39-4786-a33e-263baedd008b.png)
 
 ## Versão Mobile
-![imagem (11)](https://user-images.githubusercontent.com/79481502/163024274-4d85e5a3-6b49-461e-9c2c-3ac389865558.jpeg)
-![imagem (9)](https://user-images.githubusercontent.com/79481502/163024333-7b97cab3-4b18-4e60-965f-0ba616410927.jpeg)
-![imagem (10)](https://user-images.githubusercontent.com/79481502/163024401-a47834af-ac42-472e-8bba-059fdb334406.jpeg)
+<img src="https://user-images.githubusercontent.com/79481502/163027028-36a40fdb-6e06-4c0b-ad65-49405e418cb2.png" width="400">
+<img src="https://user-images.githubusercontent.com/79481502/163027072-2df1b0c7-28f0-490f-89f0-c569d8e4fd6d.png" width="400">
+<img src="https://user-images.githubusercontent.com/79481502/163027074-d92618ef-4f4e-4598-982f-11a37356be71.png" width="400">
+<img src="https://user-images.githubusercontent.com/79481502/163027075-5873e9cb-0bbe-4727-be2b-7dc2f1313130.png" width="400">
+<img src="https://user-images.githubusercontent.com/79481502/163027076-fe1c8c1e-3169-4add-944d-f2b7858709f9.png" width="400">
+<img src="(https://user-images.githubusercontent.com/79481502/163027077-36673cb4-4e2e-4250-b9ef-0740a89883f0.png" width="400">
+<img src="https://user-images.githubusercontent.com/79481502/163027233-5afc1096-1d46-4af8-9861-fda7f4389aef.png" width="400">
+<img src="https://user-images.githubusercontent.com/79481502/163027180-4fefb360-2455-462b-b711-f163c08e20d2.png" width="400">
+<img src="https://user-images.githubusercontent.com/79481502/163027118-c148f4ee-c6d4-4d2e-abf5-49f03b3e7f8e.png" width="400">
+<img src="https://user-images.githubusercontent.com/79481502/163027122-19548afd-7e37-4fb6-b1a8-597c71f23c13.png" width="400">
+<img src="https://user-images.githubusercontent.com/79481502/163027123-af227509-dcfd-4d64-a710-89c1626e2b3b.png" width="400">
+<img src="https://user-images.githubusercontent.com/79481502/163027125-e16a1654-f7f9-403e-bd07-116179445c61.png" width="400">
 
-![imagem (5)](https://user-images.githubusercontent.com/79481502/163024598-c7bff940-f96d-4e6c-861d-84b56021072f.jpeg)
-![imagem (6)](https://user-images.githubusercontent.com/79481502/163024746-e8f2fdec-7111-4c9c-bb0f-6105b1f1b899.jpeg)
-![imagem (3)](https://user-images.githubusercontent.com/79481502/163024773-c5a50538-3552-461f-97bb-c982a7c1f8ea.jpeg)
-![imagem (4)](https://user-images.githubusercontent.com/79481502/163024811-5333e731-3f35-4c20-a3a7-584f2bfdc03f.jpeg)
-![imagem (2)](https://user-images.githubusercontent.com/79481502/163024835-93b2c667-5441-408b-86a3-117bdc277526.jpeg)
 
 ## Autor
 
