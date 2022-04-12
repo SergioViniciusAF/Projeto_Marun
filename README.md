@@ -6,7 +6,7 @@ Website desenvolvido para um processo seletivo. Não se trata de um projeto real
 
 - HTML
 - CSS
-- Boostrap
+- Bootstrap
 
 ## Serviços Utilizados
 
@@ -15,7 +15,7 @@ Website desenvolvido para um processo seletivo. Não se trata de um projeto real
 
 ## Links
 
-- Site:https://sergioviniciusaf.github.io/Projeto_Marun/
+- Site: https://sergioviniciusaf.github.io/Projeto_Marun/
 - Repositório: https://github.com/SergioViniciusAF/Projeto_Marun.git
 
 ## Versão WEB
@@ -30,7 +30,7 @@ Website desenvolvido para um processo seletivo. Não se trata de um projeto real
 
 ## Versão Mobile
 <img src="https://user-images.githubusercontent.com/79481502/163027028-36a40fdb-6e06-4c0b-ad65-49405e418cb2.png" width="400">
-<img src="https://user-images.githubusercontent.com/79481502/163027072-2df1b0c7-28f0-490f-89f0-c569d8e4fd6d.png" width="400">
+
 <img src="https://user-images.githubusercontent.com/79481502/163027074-d92618ef-4f4e-4598-982f-11a37356be71.png" width="400">
 <img src="https://user-images.githubusercontent.com/79481502/163027075-5873e9cb-0bbe-4727-be2b-7dc2f1313130.png" width="400">
 <img src="https://user-images.githubusercontent.com/79481502/163027076-fe1c8c1e-3169-4add-944d-f2b7858709f9.png" width="400">
